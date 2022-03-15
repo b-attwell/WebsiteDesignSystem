@@ -1,0 +1,90 @@
+* {
+    text-align: center;
+}
+
+header {
+    background-color: #00458B;
+    padding: 10px 0px;
+    color: white;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    border-radius: 2px;
+}
+
+ul {
+    list-style: outside none none;
+}
+
+section{
+    border: 2px solid black;
+    margin: 20px 300px;
+}
+
+section h2 {
+    background-color: #3FD2C7;
+    margin: 0;
+    border-bottom: 2px solid black;
+}
+
+#nobackground {
+    background-color: white;
+    border-bottom: none;
+}
+
+#main {
+    position: relative;
+    top: 120px;
+}
+
+#colourdisplay p {
+    display: inline-block;
+    padding: 30px 150px;
+    margin: 20px 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.light-blue {
+    background-color: #99DDFF;
+}
+
+.green {
+    background-color: #3FD2C7;
+}
+
+.dark-blue {
+    background-color: #00458B;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.fontexample1 {
+    font-family: BlinkMacSystemFont;
+}
+
+.fontexample2 {
+    font-family: Arial;
+}
+
+.fontexample3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.textstyles h1, 
+.textstyles h2, 
+.textstyles p {
+    text-decoration: underline;
+}
+
+#nounderline {
+    text-decoration: none;
+}
+
+.textstyle {
+    text-align: center;
+}

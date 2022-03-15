@@ -1,0 +1,1 @@
+Created a simple website style guide for future
